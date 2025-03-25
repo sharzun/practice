@@ -1,0 +1,15 @@
+Curently scanning: 192.168.195.0/24   |   Screen View: Unique Hosts                                                                                                                                                                        
+                                                                                                                                                                                                                                             
+ 4 Captured ARP Req/Rep packets, from 4 hosts.   Total size: 240                                                                                                                                                                             
+ _____________________________________________________________________________
+   IP            At MAC Address     Count     Len  MAC Vendor / Hostname      
+ -----------------------------------------------------------------------------
+ 192.168.195.1   00:50:56:c0:00:08      1      60  VMware, Inc.                                                                                                                                                                              
+ 192.168.195.2   00:50:56:f2:04:1b      1      60  VMware, Inc.                                                                                                                                                                              
+ 192.168.195.128 00:0c:29:15:6a:55      1      60  VMware, Inc.                                                                                                                                                                              
+ 192.168.195.254 00:50:56:e1:93:fc      1      60  VMware, Inc.   
+
+
+#.254 = bdcast
+#.1 & .2 = vmware
+#.128 = sus

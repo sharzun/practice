@@ -1,0 +1,9 @@
+Interface: eth0, type: EN10MB, MAC: 00:0c:29:97:bc:f9, IPv4: 192.168.195.129
+Starting arp-scan 1.10.0 with 256 hosts (https://github.com/royhills/arp-scan)
+192.168.195.1	00:50:56:c0:00:08	(Unknown)
+192.168.195.2	00:50:56:f2:04:1b	(Unknown)
+192.168.195.128	00:0c:29:15:6a:55	(Unknown)
+192.168.195.254	00:50:56:f9:9b:bb	(Unknown)
+
+4 packets received by filter, 0 packets dropped by kernel
+Ending arp-scan 1.10.0: 256 hosts scanned in 1.847 seconds (138.60 hosts/sec). 4 responded
